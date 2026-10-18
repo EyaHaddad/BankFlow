@@ -11,3 +11,6 @@ __pycache__/
 
 # Logs
 *.log
+certs/
+
+*.db
